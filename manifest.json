@@ -1,0 +1,15 @@
+{
+  "name": "Burnout Recovery Planner",
+  "short_name": "Excel Your Life",
+  "description": "A gentle system for getting back to yourself. By ExcelYourLifeStudio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F3EE",
+  "theme_color": "#F7F3EE",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
